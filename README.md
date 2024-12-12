@@ -1,5 +1,5 @@
-## Hi there 👋
-Hello 👋
+## Hallo 👋
+
 I'm Eloi. Currently studying at Ada Tech School.
 
 <!--
