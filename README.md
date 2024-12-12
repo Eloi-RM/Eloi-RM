@@ -1,4 +1,6 @@
 ## Hi there 👋
+Hello 👋
+I'm Eloi. Currently studying at Ada Tech School.
 
 <!--
 **Eloi-RM/Eloi-RM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
