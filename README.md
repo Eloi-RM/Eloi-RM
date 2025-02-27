@@ -1,18 +1,19 @@
-## Hallo 👋
+# 👋 Bonjour, je suis Eloi !
 
-I'm Eloi. Currently studying at Ada Tech School.
+## 🎓 Apprenant à Ada Tech School | 🎮 Passionné de Jeux Vidéo
 
-<!--
-**Eloi-RM/Eloi-RM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### À propos de moi
 
-Here are some ideas to get you started:
+💡 **Étudiant à Ada Tech School** : Je suis actuellement en formation à Ada Tech School, où j'apprends à programmer et à utiliser des méthodes agiles lors de projets en groupe.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🕹️ **Passionné de Jeux Vidéo** : En dehors du code, je suis un grand fan de jeux vidéo. J'aime développer des jeux pendant mon temps libre.
+
+### Mes Compétences
+
+- **Langages de Programmation** : ⚙️ JavaScript, 🌐 HTML/CSS, ☕ Java, 🐘 PHP
+- **Autres Compétences** : Résolution de problèmes, travail en équipe, méthodes agiles
+
+### Comment me contacter
+
+- **LinkedIn** : [Eloi-RM](#) <!-- Remplace par le lien vers ton profil LinkedIn -->
+- **Email** : eloimailmaynad@gmail.com <!-- Remplace par ton adresse email -->
