@@ -15,5 +15,5 @@
 
 ### Comment me contacter
 
-- **LinkedIn** : [Eloi-RM](#) <!-- Remplace par le lien vers ton profil LinkedIn -->
+- **LinkedIn** : [Eloi-RM](#https://www.linkedin.com/in/eloi-de-maynadier/) <!-- Remplace par le lien vers ton profil LinkedIn -->
 - **Email** : eloimailmaynad@gmail.com <!-- Remplace par ton adresse email -->
