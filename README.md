@@ -10,7 +10,7 @@
 
 ### Mes Compétences
 
-- **Langages de Programmation** : ⚙️ JavaScript, 🌐 HTML/CSS, ☕ Java, 🐘 PHP
+- **Langages de Programmation** : ⚙️ JavaScript, 🌐 HTML/CSS, ☕ Java, 🐘 PHP, 🐍 Python
 - **Autres Compétences** : Résolution de problèmes, travail en équipe, méthodes agiles
 
 ### Comment me contacter
